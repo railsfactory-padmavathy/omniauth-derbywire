@@ -1,2 +1,2 @@
-omniauth-derbywire
-==================
+omniauth-derbywire-0.1.0
+========================
